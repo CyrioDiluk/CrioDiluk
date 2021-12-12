@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-You can use the [editor on GitHub](https://github.com/CyrioDiluk/CrioDiluk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</head>
+<body>
+	<h1 style=text-align:center>Постройки в майнкрафте </h1> 
+	<h2>Как правильно построить дом?</h2>
+	<img src="https://v-gta.fun/wp-content/uploads/2021/03/maxresdefault-4-1-950x500.jpg"> 
+	<p>
+		<a href="https://mcpehub.org/buildings/"> Постройки майнкрафт идеи для домов </a>
+	</p>
+	<p> Постройка дома - очень сложный процесс. Нужно выбрать красивое мето, как правило это поляна, подобрать блоки из которого будет сделан этот дом и многое другое, но я могу попробовать помочь вам в этой не простой работе!</p>
+	И так, начнём. 
+	<p> Во первых - выберем подходящие доски/брёвна под биом.Вы ведь не будете строить дом из берёзы в болоте,так?(если да, я вам помочь не смогу, вы запущенный случай)</p>
+  <p>Если вы хотите строить дом на поляне, можете выбрать Дуб, Берёзу, Тёмный Дуб, Ель (в сочетании с берёзой/дубом) и так далее, потому что поляна - самый лёгкий биом в плане дизайна. </p>
+  <p>Если же вы захотели строить дом в горах, выбирайте Ель, Тёмный дуб, Берёзу. Если честно, не советую строить дом в горах..</p>
+  <p>Выбрали лес? Без проблем! Стройте из того дерева, которое находится в вашем лесу (только не вырубите весь лес).</p>
+  <p>Выбрали болото? Идите ко врачу!</p>
+   В скором я добавлю больше биомов, а пока что переходим к сочетаниям блоков!
+  <h2> Сочитание Блоков </h2>
+  <p> Как классические сочитания можно попробовать: берёза+дуб, берёза+тёмный дуб,дуб+камень,дуб+каменные кирпичи</p>
+    <img src="https://yvid.ru/wp-content/uploads/2021/03/kak-mozhno-bystro-za-pyat-minut-postroit-krasivyj-dom-v-majnkrafte.jpg">
+  <p> Можно попробовать что-то "экзатическое" 
+    
+</body>
+</html>
+  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CyrioDiluk/CrioDiluk/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
